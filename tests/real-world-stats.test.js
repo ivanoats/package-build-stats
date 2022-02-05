@@ -83,10 +83,6 @@ const UILibraries = [
     name: 'bootstrap@3.3.7',
     size: 37.05 * 1024,
   },
-  {
-    name: 'animate.css@3.5.2',
-    size: 52.79 * 1024,
-  },
 ]
 
 const libsWithPeerDeps = [
